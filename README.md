@@ -1,0 +1,3 @@
+TR = Bu proje, Tinder kullanıcılarının uygulama içindeki etkileşimlerine ilişkin yorumlarını ve geri bildirimlerini analiz ederek, bu metinlerdeki duygusal eğilimleri sınıflandırmayı amaçlamaktadır. Doğal dil işleme teknikleri kullanılarak, kullanıcı yorumlarının pozitif, negatif veya nötr duygularla ilişkili olup olmadığı belirlenecektir.
+
+EN = This project aims to classify the emotional tendencies in Tinder users’ comments and feedback regarding their interactions within the app, by analyzing these texts. Using natural language processing techniques, it will be determined whether user comments are associated with positive, negative or neutral emotions.
